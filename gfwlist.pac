@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 var proxy = 'SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;';
+=======
+var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
+>>>>>>> 35c8e1ccd71f79bdd9645c9a628291a9cd7dbec4
 var rules = [
     [
         [],
